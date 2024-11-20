@@ -1,24 +1,27 @@
 # 👋 Hi, I’m Abdul Moeez (@AbdulMoeez1278)
 
-Welcome to my GitHub profile! I’m a **Front-End Developer** and tech enthusiast with a passion for creating responsive and user-friendly web applications.  
+Welcome to my GitHub profile! I’m a **Front-End Developer** and **WordPress Developer** passionate about creating responsive and user-friendly web applications and websites.  
 
 ---
 
 ## 🚀 About Me
 - 🎓 **Education:** Bachelor of Science in Computer Science  
 - 🌱 **Currently Learning:** Advanced JavaScript frameworks like React.js and exploring UI/UX design principles + learning about SEO for better understandings of SEO Principles
-- 🧩 **Interests:** Web development, live streaming, and experimenting with new tech tools  
+- 🧩 **Interests:** Web development, WordPress customization, live streaming, and experimenting with new tech tools 
 
 ---
 
 ## 🛠️ Skills and Tools
 - **Languages & Frameworks:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS 
-- **Tools & Platforms:** Visual Studio Code, Git, GitHub  
+- **CMS Expertise:** WordPress (themes, plugins, and site customization) 
+- **Tools & Platforms:** Visual Studio Code, Git, GitHub, WordPress Dashboard
+
 - **Key Skills:**  
   - Responsive Web Design  
   - Dynamic UI/UX development  
   - Cross-platform compatibility  
   - Debugging and performance optimization  
+  - WordPress site setup, theme customization, and plugin management  
 
 ---
 
@@ -50,14 +53,15 @@ A front-end platform showcasing hotels and tour packages for seamless travel exp
 
 ## 🌟 Current Projects
 - **Hospital Management System:** Developing a responsive front-end for a healthcare management application as my final year project.  
-- **Personal Portfolio:** Building a professional website to showcase my projects, skills, and achievements.  
+- **Personal Portfolio:** Building a professional website to showcase my projects, skills, and achievements.
+- **WordPress Development:** Creating customized WordPress themes and plugins for small businesses and personal blogs.
 
 ---
 
 ## 🏆 Goals
 - Contribute to impactful open-source projects  
 - Build a portfolio of innovative and scalable web applications  
-- Enhance my expertise in modern front-end frameworks  
+- Enhance my expertise in modern front-end frameworks and WordPress development  
 
 ---
 
