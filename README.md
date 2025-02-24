@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I’m a **Front-End Developer** and **WordPress De
 ## 🚀 About Me
 - 🎓 **Education:** Bachelor of Science in Computer Science  
 - 🌱 **Currently Learning:** Advanced JavaScript frameworks like React.js and exploring UI/UX design principles + learning about SEO for better understandings of SEO Principles
-- 🧩 **Interests:** Web development, WordPress customization, live streaming, and experimenting with new tech tools 
+- 🧩 **Interests:** Web development, App development, WordPress customization, live streaming, and experimenting with new tech tools 
 
 ---
 
 ## 🛠️ Skills and Tools
-- **Languages & Frameworks:** HTML, CSS, JavaScript, Bootstrap, Tailwind CSS 
+- **Languages & Frameworks:** HTML, CSS, SASS/SCSS JavaScript, Bootstrap, Tailwind CSS 
 - **CMS Expertise:** WordPress (themes, plugins, and site customization) 
 - **Tools & Platforms:** Visual Studio Code, Git, GitHub, WordPress Dashboard
 
