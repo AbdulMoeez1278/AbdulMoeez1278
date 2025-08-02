@@ -71,7 +71,7 @@ A front-end platform showcasing hotels and tour packages for seamless travel exp
 
 ## 📫 Get in Touch
 - **Email:** [abdulmoeez1278@gmail.com](mailto:abdulmoeez1278@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/abdulmoeez1278](https://linkedin.com/in/abdulmoeez1278)  
+- **LinkedIn:** [linkedin.com/in/abdulmoeez1278](https://www.linkedin.com/in/abdul-moeez-tariq)
 - **GitHub:** [github.com/AbdulMoeez1278](https://github.com/AbdulMoeez1278)
 
   <p align="left">
