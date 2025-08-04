@@ -1,8 +1,8 @@
 [![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHfiel5HGfElQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732219831808?e=1737590400&v=beta&t=qosNqTCprWT6Ilo4Fv6GM8RpBJJyLCKoQA8DcEpIlGQ)](https://AbdulMoeez1278.io)
 
-# 👋 Hi, I’m Abdul Moeez (@AbdulMoeez1278)
+# 👋 Hi there, I'm Abdul Moeez Tariq (@AbdulMoeez1278)
 
-Welcome to my GitHub profile! I’m a **Front-End Developer** and **WordPress Developer** passionate about creating responsive and user-friendly web applications and websites.  
+Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **MERN Stack (MongoDB, Express.js, React.js, Node.js)** and passionate about building **scalable, performant, and user-friendly web applications**. I bring together **frontend precision** and **backend logic** to develop complete solutions that solve real-world problems.
 
 ---
 
@@ -13,12 +13,105 @@ Welcome to my GitHub profile! I’m a **Front-End Developer** and **WordPress De
 
 ---
 
-## 🛠️ Skills and Tools
-- **Languages & Frameworks:** HTML, CSS, SASS/SCSS JavaScript, Bootstrap, Tailwind CSS 
-- **CMS Expertise:** WordPress (themes, plugins, and site customization) 
-- **Tools & Platforms:** Visual Studio Code, Git, GitHub, WordPress Dashboard
+## 🚀 About Me
 
-  <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+- 💼 **Role:** Junior Node.js Developer | MERN Stack Enthusiast
+- 🎓 **Education:** Bachelor of Science in Computer Science
+- 🌱 **Currently Learning:** Advanced Backend Architecture (JWT, REST APIs, MongoDB Aggregations), React Optimization, SEO Strategies
+- 📍 **Location:** Pakistan 🇵🇰
+
+I thrive at the intersection of **design, functionality, and performance**, working with both startups and solo projects to deliver high-impact digital experiences. When I’m not coding, you’ll find me experimenting with UI/UX, exploring tech trends, or gaming on my YouTube channel.
+
+---
+
+## 🧠 Tech Stack & Tools
+
+### 🔹 Languages & Frameworks:
+`HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`  
+`Node.js` `Express.js` `React.js` `MongoDB` `EJS`  
+
+### 🔹 Styling & UI:
+`Tailwind CSS` `Bootstrap` `SASS/SCSS` `Responsive Web Design`  
+
+### 🔹 Platforms & Tools:
+`Git & GitHub` `Postman` `MongoDB Atlas` `Netlify` `Render`  
+`Visual Studio Code` `Figma` `Adobe XD` `WordPress`  
+
+### 🔹 CMS Experience:
+**WordPress Developer** – Theme customization, plugin integration, Elementor, WooCommerce setup, speed optimization, security hardening.
+
+---
+
+<p align="left">
+
+  <!-- Frontend -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS/SCSS" width="40" height="40"/>
+  </a>
+  <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="LESS" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/576147" alt="GSAP" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  </a>
+
+  <!-- Backend -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+
+  <!-- CMS -->
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+  </a>
+
+  <!-- Tools & Platforms -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  </a>
+  <a href="https://netlify.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
+  </a>
+  <a href="https://render.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" alt="Render" width="40" height="40"/>
+  </a>
+</p>
 
 - **Key Skills:**  
   - Responsive Web Design  
@@ -38,56 +131,109 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 
 ---
 
-## 🌟 Projects
+## 🌐 Active Platforms
 
-### 1. [Covid19-CoronaVirus](https://github.com/AbdulMoeez1278/Covid19-CoronaVirus_Website)
+| Platform          | Description                                           | Links                                                |
+|-------------------|-------------------------------------------------------|------------------------------------------------------|
+| **GitHub**        | Open-source code and personal projects                | [@AbdulMoeez1278](https://github.com/AbdulMoeez1278) |
+| **LinkedIn**      | Professional network & job connections                | [linkedin.com/in/abdulmoeez1278](https://linkedin.com/in/abdul-moeez-tariq) |
+| **YouTube**       | PUBG Mobile Gameplay + Dev content (coming soon)      | [Moizy Plays](https://www.youtube.com/@moizy00)      |
+| **Blogger**       | Developer blogs, tutorials, and personal journey      | [BuiltByMoizy](https://builtbymoizy.blogspot.com)    |
+
+---
+
+## 🌟 Featured Projects
+
+### 🏥 Hospital Management System (FYP) - `HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
+- A responsive and modern front-end for a hospital management system developed as a Final Year Project.
+- It includes interfaces for patient registration, doctor listings, appointment scheduling, and contact forms.
+- Designed with a clean UI using HTML, CSS, Bootstrap, and Tailwind CSS for seamless user experience across devices.
+- Built to simulate real-world medical workflows and improve healthcare access digitally.
+
+### 1. [Covid19-CoronaVirus](https://github.com/AbdulMoeez1278/Covid19-CoronaVirus_Website) - `HTML` `CSS` `Bootstrap` `JavaScript`
 A web-based platform designed to provide up-to-date information about the COVID-19 pandemic.  
 - Built a **responsive and mobile-friendly** design using HTML, CSS, and Bootstrap.  
 - Added dynamic content using **JavaScript**, including interactive sections for symptoms, prevention measures, and vaccination information.  
 - Focused on user-friendly navigation and visually appealing design to help users stay informed and safe.  
 
-### 2. [SAIT - Sky Alam International Tours](https://github.com/AbdulMoeez1278/SAIT-WEB-BASED-Project)
+### 2. [SAIT - Sky Alam International Tours](https://github.com/AbdulMoeez1278/SAIT-WEB-BASED-Project) - `HTML` `CSS` `Bootstrap` `JavaScript`
 A front-end platform showcasing hotels and tour packages for seamless travel exploration.  
 - Developed a **responsive layout** using HTML, CSS, and Bootstrap for optimal user experience across devices.  
 - Highlighted tour packages with detailed descriptions, pricing, and high-quality images.  
 - Implemented dynamic features like image sliders and interactive maps with **JavaScript**.  
-- Included customer testimonials, contact information, and a support form for enhanced credibility and communication.  
+- Included customer testimonials, contact information, and a support form for enhanced credibility and communication.
+
+### 📧 [Real-Time Form Validation](https://github.com/AbdulMoeez1278/realtime-form-validation-tailwind-js) - `JavaScript` `Tailwind CSS` `HTML`
+- Form with real-time JavaScript validation and dynamic error handling.
+- A fully responsive contact form featuring real-time validation using JavaScript and Tailwind CSS.
+- Each input field provides instant visual feedback with red borders for errors and blue for valid entries.
+- Supports various field types including text, email, password, file upload, gender selection, and checkboxes.
+- Designed to improve user experience by catching input errors before submission.
 
 ---
 
-## 🌟 Current Projects
-- **Hospital Management System:** Developing a responsive front-end for a healthcare management application as my final year project.  
-- **Personal Portfolio:** Building a professional website to showcase my projects, skills, and achievements.
-- **WordPress Development:** Creating customized WordPress themes and plugins for small businesses and personal blogs.
+## 🧱 Current Focus Areas
+
+- 🔐 **Authentication & Authorization:** JWT, OAuth, Session handling  
+- 🌐 **RESTful APIs:** Build & consume scalable APIs with Express & MongoDB  
+- ⚙️ **Deployment:** CI/CD with GitHub, Render, Netlify  
+- 🧠 **SEO Optimization:** Schema.org, meta tags, accessibility  
+- 🔄 **FullStack Practice:** Cloning real-world apps with MERN stack
 
 ---
 
-## 🏆 Goals
-- Contribute to impactful open-source projects  
-- Build a portfolio of innovative and scalable web applications  
-- Enhance my expertise in modern front-end frameworks and WordPress development  
+## 🏆 My Goals
+
+- ✅ Build real-world full-stack apps from scratch  
+- ✅ Contribute to open-source Node.js and React.js projects  
+- ✅ Grow a professional tech blog on Blogger  
+- ✅ Land global freelance and remote full-time opportunities  
+- ✅ Build a SaaS or startup product with real impact  
 
 ---
 
-## 📫 Get in Touch
+## 💬 Let's Collaborate!
+
+Whether you're a developer, startup, or agency, I'm open to **collaboration, mentorship, and project-based work**.  
+Let’s build something amazing together.
+
+---
+
+## 📫 Contact Me
+
 - **Email:** [abdulmoeez1278@gmail.com](mailto:abdulmoeez1278@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/abdulmoeez1278](https://www.linkedin.com/in/abdul-moeez-tariq)
-- **GitHub:** [github.com/AbdulMoeez1278](https://github.com/AbdulMoeez1278)
+- **GitHub:** [github.com/AbdulMoeez1278](https://github.com/AbdulMoeez1278)  
+- **LinkedIn:** [linkedin.com/in/abdulmoeez1278](https://linkedin.com/in/abdulmoeez1278)  
 
-  <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/abdulmoeez1278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abdulmoeez1278" height="30" width="40" /></a>
-<a href="https://fb.com/@moizy00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@moizy00" height="30" width="40" /></a>
-<a href="https://www.instagram.com/moizy00?igsh=dnQ2bmtxNnZjZXR5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@moizy00" height="30" width="40" /></a>
+---
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/abdulmoeez1278" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/moizy00" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/moizy00" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@moizy00" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+  <a href="mailto:abdulmoeez1278@gmail.com" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
 ## 🎯 Fun Fact
-When I’m not coding or gaming, I enjoy exploring new cafes, binge-watching tech documentaries, and brainstorming unique app ideas!  
+
+When I'm not immersed in code, I'm likely streaming on YouTube, exploring new cafes, or jotting down startup ideas in my notebook 📒.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you’d like to collaborate. 😊  
+> ⭐ If my work inspires you, feel free to star a repository, connect, or reach out. Thanks for visiting!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulmoeez1278&label=Profile%20views&color=0e75b6&style=flat" alt="abdulmoeez1278" /> </p>
 
