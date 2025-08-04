@@ -17,19 +17,39 @@ I thrive at the intersection of **design, functionality, and performance**, work
 ---
 
 ## 🧠 Tech Stack & Tools
-### 🔹 Languages & Frameworks:
-`HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`  
-`Node.js` `Express.js` `React.js` `MongoDB` `EJS`  
 
-### 🔹 Styling & UI:
-`Tailwind CSS` `Bootstrap` `SASS/SCSS` `Responsive Web Design`  
+### 🔹 Languages & Frameworks
+- `HTML5`, `CSS3`, `JavaScript (ES6+)`, `TypeScript`
+- `Node.js`, `Express.js`, `React.js`, `MongoDB`, `EJS`
+- `GSAP`, `jQuery`, `JSON`, `Axios`
 
-### 🔹 Platforms & Tools:
-`Git & GitHub` `Postman` `MongoDB Atlas` `Netlify` `Render`  
-`Visual Studio Code` `Figma` `Adobe XD` `WordPress`  
+### 🔹 Styling & UI
+- `Tailwind CSS`, `Bootstrap`, `SASS/SCSS`, `LESS`
+- `Responsive Web Design`, `Mobile-First UI`, `CSS Animations`
 
-### 🔹 CMS Experience:
-**WordPress Developer** – Theme customization, plugin integration, Elementor, WooCommerce setup, speed optimization, security hardening.
+### 🔹 State Management & Client Tools
+- `Redux`, `Context API`, `Zustand`
+
+### 🔹 Templating & Backend Utilities
+- `EJS`, `JWT Authentication`, `RESTful APIs`
+- `MongoDB Aggregation`, `Mongoose`
+
+### 🔹 Platforms & Dev Tools
+- `Git & GitHub`, `Visual Studio Code (VS Code)`
+- `Postman`, `MongoDB Atlas`, `Netlify`, `Render`, `Vercel`
+- `Nodemon`, `Figma`, `Adobe XD`, `Canva`
+- `npm`, `yarn`, `dotenv`, `Prettier`, `ESLint`
+
+### 🔹 CMS & Web Builders
+- `WordPress` – Theme customization, plugin development, Elementor, WooCommerce
+- `Blogger` – Custom design, layout optimization, Google AdSense integration
+
+---
+
+### ✅ Additional Tools & Concepts
+- Deployment & CI/CD: `GitHub Pages`, `Railway.app`
+- SEO & Optimization: `Meta Tags`, `OpenGraph`, `Schema.org`, `Lighthouse`
+- Performance: `Lazy Loading`, `Minification`, `Asset Optimization`
 
 ---
 
