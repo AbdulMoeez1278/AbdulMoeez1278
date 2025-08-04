@@ -7,14 +7,6 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **M
 ---
 
 ## 🚀 About Me
-- 🎓 **Education:** Bachelor of Science in Computer Science  
-- 🌱 **Currently Learning:** Advanced JavaScript frameworks like React.js and exploring UI/UX design principles + learning about SEO for better understandings of SEO Principles
-- 🧩 **Interests:** Web development, App development, WordPress customization, live streaming, and experimenting with new tech tools 
-
----
-
-## 🚀 About Me
-
 - 💼 **Role:** Junior Node.js Developer | MERN Stack Enthusiast
 - 🎓 **Education:** Bachelor of Science in Computer Science
 - 🌱 **Currently Learning:** Advanced Backend Architecture (JWT, REST APIs, MongoDB Aggregations), React Optimization, SEO Strategies
@@ -25,7 +17,6 @@ I thrive at the intersection of **design, functionality, and performance**, work
 ---
 
 ## 🧠 Tech Stack & Tools
-
 ### 🔹 Languages & Frameworks:
 `HTML5` `CSS3` `JavaScript (ES6+)` `TypeScript`  
 `Node.js` `Express.js` `React.js` `MongoDB` `EJS`  
@@ -113,6 +104,8 @@ I thrive at the intersection of **design, functionality, and performance**, work
   </a>
 </p>
 
+---
+
 - **Key Skills:**  
   - Responsive Web Design  
   - Dynamic UI/UX development  
@@ -132,7 +125,6 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 ---
 
 ## 🌐 Active Platforms
-
 | Platform          | Description                                           | Links                                                |
 |-------------------|-------------------------------------------------------|------------------------------------------------------|
 | **GitHub**        | Open-source code and personal projects                | [@AbdulMoeez1278](https://github.com/AbdulMoeez1278) |
@@ -143,7 +135,6 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 ---
 
 ## 🌟 Featured Projects
-
 ### 🏥 Hospital Management System (FYP) - `HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
 - A responsive and modern front-end for a hospital management system developed as a Final Year Project.
 - It includes interfaces for patient registration, doctor listings, appointment scheduling, and contact forms.
@@ -173,7 +164,6 @@ A front-end platform showcasing hotels and tour packages for seamless travel exp
 ---
 
 ## 🧱 Current Focus Areas
-
 - 🔐 **Authentication & Authorization:** JWT, OAuth, Session handling  
 - 🌐 **RESTful APIs:** Build & consume scalable APIs with Express & MongoDB  
 - ⚙️ **Deployment:** CI/CD with GitHub, Render, Netlify  
@@ -193,14 +183,12 @@ A front-end platform showcasing hotels and tour packages for seamless travel exp
 ---
 
 ## 💬 Let's Collaborate!
-
 Whether you're a developer, startup, or agency, I'm open to **collaboration, mentorship, and project-based work**.  
 Let’s build something amazing together.
 
 ---
 
 ## 📫 Contact Me
-
 - **Email:** [abdulmoeez1278@gmail.com](mailto:abdulmoeez1278@gmail.com)  
 - **GitHub:** [github.com/AbdulMoeez1278](https://github.com/AbdulMoeez1278)  
 - **LinkedIn:** [linkedin.com/in/abdulmoeez1278](https://linkedin.com/in/abdulmoeez1278)  
@@ -228,7 +216,6 @@ Let’s build something amazing together.
 ---
 
 ## 🎯 Fun Fact
-
 When I'm not immersed in code, I'm likely streaming on YouTube, exploring new cafes, or jotting down startup ideas in my notebook 📒.
 
 ---
