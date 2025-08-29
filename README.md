@@ -149,7 +149,7 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 |-------------------|-------------------------------------------------------|------------------------------------------------------|
 | **GitHub**        | Open-source code and personal projects                | [@AbdulMoeez1278](https://github.com/AbdulMoeez1278) |
 | **LinkedIn**      | Professional network & job connections                | [linkedin.com/in/abdulmoeez1278](https://linkedin.com/in/abdul-moeez-tariq) |
-| **YouTube**       | PUBG Mobile Gameplay + Dev content (coming soon)      | [Moizy Plays](https://www.youtube.com/@moizy00)      |
+| **YouTube**       | Daily life vlogs as a Dev content (coming soon)      | [Life of Moeez](https://www.youtube.com/@moizyvlogs)  |
 | **Blogger**       | Developer blogs, tutorials, and personal journey      | [BuiltByMoizy](https://builtbymoizy.blogspot.com)    |
 
 ---
@@ -216,16 +216,16 @@ Let’s build something amazing together.
 ---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdulmoeez1278" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-moeez-tariq" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/moizy00" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/moizy00" target="_blank">
+  <a href="https://www.instagram.com/@moizycodes" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/@moizy00" target="_blank">
+  <a href="https://www.youtube.com/@moizyvlogs" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
   <a href="mailto:abdulmoeez1278@gmail.com" target="_blank">
