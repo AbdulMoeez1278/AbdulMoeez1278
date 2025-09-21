@@ -148,7 +148,7 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 | Platform          | Description                                           | Links                                                |
 |-------------------|-------------------------------------------------------|------------------------------------------------------|
 | **GitHub**        | Open-source code and personal projects                | [@AbdulMoeez1278](https://github.com/AbdulMoeez1278) |
-| **LinkedIn**      | Professional network & job connections                | [linkedin.com/in/abdulmoeez1278](https://linkedin.com/in/abdul-moeez-tariq) |
+| **LinkedIn**      | Professional network & job connections                | [linkedin.com/in/abdul-moeez-tariq](https://linkedin.com/in/abdul-moeez-tariq) |
 | **YouTube**       | Daily life vlogs as a Dev content (coming soon)      | [Life of Moeez](https://www.youtube.com/@moizyvlogs)  |
 | **Blogger**       | Developer blogs, tutorials, and personal journey      | [BuiltByMoizy](https://builtbymoizy.blogspot.com)    |
 
