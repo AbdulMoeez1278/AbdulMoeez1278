@@ -155,26 +155,26 @@ I’m a content creator on YouTube where I live stream **PUBG Mobile** gameplay 
 ---
 
 ## 🌟 Featured Projects
-### 🏥 Hospital Management System (FYP) - `HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
+### 1. Hospital Management System (FYP) - `HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
 - A responsive and modern front-end for a hospital management system developed as a Final Year Project.
 - It includes interfaces for patient registration, doctor listings, appointment scheduling, and contact forms.
 - Designed with a clean UI using HTML, CSS, Bootstrap, and Tailwind CSS for seamless user experience across devices.
 - Built to simulate real-world medical workflows and improve healthcare access digitally.
 
-### 1. [Covid19-CoronaVirus](https://github.com/AbdulMoeez1278/Covid19-CoronaVirus_Website) - `HTML` `CSS` `Bootstrap` `JavaScript`
+### 2. [Covid19-CoronaVirus](https://github.com/AbdulMoeez1278/Covid19-CoronaVirus_Website) - `HTML` `CSS` `Bootstrap` `JavaScript`
 A web-based platform designed to provide up-to-date information about the COVID-19 pandemic.  
 - Built a **responsive and mobile-friendly** design using HTML, CSS, and Bootstrap.  
 - Added dynamic content using **JavaScript**, including interactive sections for symptoms, prevention measures, and vaccination information.  
 - Focused on user-friendly navigation and visually appealing design to help users stay informed and safe.  
 
-### 2. [SAIT - Sky Alam International Tours](https://github.com/AbdulMoeez1278/SAIT-WEB-BASED-Project) - `HTML` `CSS` `Bootstrap` `JavaScript`
+### 3. [SAIT - Sky Alam International Tours](https://github.com/AbdulMoeez1278/SAIT-WEB-BASED-Project) - `HTML` `CSS` `Bootstrap` `JavaScript`
 A front-end platform showcasing hotels and tour packages for seamless travel exploration.  
 - Developed a **responsive layout** using HTML, CSS, and Bootstrap for optimal user experience across devices.  
 - Highlighted tour packages with detailed descriptions, pricing, and high-quality images.  
 - Implemented dynamic features like image sliders and interactive maps with **JavaScript**.  
 - Included customer testimonials, contact information, and a support form for enhanced credibility and communication.
 
-### 📧 [Real-Time Form Validation](https://github.com/AbdulMoeez1278/realtime-form-validation-tailwind-js) - `JavaScript` `Tailwind CSS` `HTML`
+### 4. [Real-Time Form Validation](https://github.com/AbdulMoeez1278/realtime-form-validation-tailwind-js) - `JavaScript` `Tailwind CSS` `HTML`
 - Form with real-time JavaScript validation and dynamic error handling.
 - A fully responsive contact form featuring real-time validation using JavaScript and Tailwind CSS.
 - Each input field provides instant visual feedback with red borders for errors and blue for valid entries.
