@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **M
 - 🌱 **Currently Learning:** Advanced Backend Architecture (JWT, REST APIs, MongoDB Aggregations), React Optimization, SEO Strategies
 - 📍 **Location:** Pakistan 🇵🇰
 
-I thrive at the intersection of **design, functionality, and performance**, working with both startups and solo projects to deliver high-impact digital experiences. When I’m not coding, you’ll find me experimenting with UI/UX, exploring tech trends, or gaming on my YouTube channel.
+I thrive at the intersection of **design, functionality, and performance**, working with both startups and solo projects to deliver high-impact digital experiences. When I’m not coding, you’ll find me experimenting with UI/UX, exploring tech trends, vlogging or gaming on my YouTube channels.
 
 ---
 
