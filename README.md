@@ -7,10 +7,10 @@ Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **M
 ---
 
 ## 🚀 About Me
-- 💼 **Role:** Junior Node.js Developer | MERN Stack Enthusiast
-- 🎓 **Education:** Bachelor of Science in Computer Science
-- 🌱 **Currently Learning:** Advanced Backend Architecture (JWT, REST APIs, MongoDB Aggregations), React Optimization, SEO Strategies
-- 📍 **Location:** Pakistan 🇵🇰
+-  **Role:** Junior Node.js Developer | MERN Stack Enthusiast
+-  **Education:** Bachelor of Science in Computer Science
+-  **Currently Learning:** Advanced Backend Architecture (JWT, REST APIs, MongoDB Aggregations), React Optimization, SEO Strategies
+-  **Location:** Pakistan 🇵🇰
 
 I thrive at the intersection of **design, functionality, and performance**, working with both startups and solo projects to deliver high-impact digital experiences. When I’m not coding, you’ll find me experimenting with UI/UX, exploring tech trends, vlogging or gaming on my YouTube channels.
 
