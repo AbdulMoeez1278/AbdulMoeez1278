@@ -220,7 +220,7 @@ Let’s build something amazing together.
   <a href="https://www.linkedin.com/in/abdul-moeez-tariq" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/moizy00" target="_blank">
+  <a href="https://www.facebook.com/moizycodes" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/@moizycodes" target="_blank">
@@ -232,7 +232,7 @@ Let’s build something amazing together.
   <a href="https://www.youtube.com/@moizyvlogs" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
-  <a href="mailto:abdulmoeez1278@gmail.com" target="_blank">
+  <a href="mailto:moizycodes.dev@gmail.com" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
