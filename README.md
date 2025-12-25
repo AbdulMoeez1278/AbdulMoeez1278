@@ -210,7 +210,7 @@ Let’s build something amazing together.
 ---
 
 ## 📫 Contact Me
-- **Email:** [abdulmoeez1278@gmail.com](mailto:abdulmoeez1278@gmail.com)  
+- **Email:** [moizycodes.dev@gmail.com](mailto:moizycodes.dev@gmail.com)  
 - **GitHub:** [github.com/AbdulMoeez1278](https://github.com/AbdulMoeez1278)  
 - **LinkedIn:** [linkedin.com/in/abdul-moeez-tariq](https://linkedin.com/in/abdul-moeez-tariq)  
 
